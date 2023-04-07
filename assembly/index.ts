@@ -1,0 +1,9 @@
+class Greeting{
+    setGreeting(){
+
+    }
+
+    getGreeting(){
+        
+    }
+}
